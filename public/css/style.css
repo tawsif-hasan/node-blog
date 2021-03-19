@@ -1,0 +1,19 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background-color: aqua;
+    width: 100vw;
+}
+.container{
+    margin: 0 20%;
+}
+label{
+    display: block;
+}
+@media screen and (min-width: 991px){
+    .aside-links{
+        position: absolute;
+        right: 20px;
+    }
+}
